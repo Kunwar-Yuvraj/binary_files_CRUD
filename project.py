@@ -24,8 +24,6 @@ import pickle
 
 """ ##### STARTING OF MAIN FUNCTIONS ##### """
 
-#file_name = input("Enter binary file's name with you want to work in this session : ")
-
 def create():
     print("You can enter details now !\n")
     while True:
