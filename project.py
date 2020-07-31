@@ -15,15 +15,9 @@ Here I am classifying all user-defined functions into two categories..
 To clarify which function is supporting, I am defining all supporting function with prefix "supporting_"
 
 ## Originally created by : KUNWAR YUVRAJ
-## SUBMITTING TO : PAWANJEET SIR
-
 
 ###########################################################
-
-Note to SIR,
-    Sir as per your advice, I am not using any built-in function or any module which is not in our syllabus. (Not even string formatting!) :)
-
-    Previously I made this project using python classes, which made this project very simple, but I shifted to this one.
+    Previously I made this project using python classes, which made this project very simple, but I shifted to this one because classes are not in  our syllabus
 
 """
 import pickle
